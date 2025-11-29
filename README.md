@@ -1,6 +1,10 @@
 # Rust-Binds
 My console/settings binds for the game
 
+extra:
+environmentfishmanager.maxfishdistance 0
+environmentfishmanager.maxfishpertype 0 
+
 console binds only:
 // Crafts default items using common resources
 bind 0 craft.add -97956382 1;craft.add 15388698 10;craft.add 1390353317 5
